@@ -104,6 +104,12 @@ dist
 .temp
 .cache
 
+<<<<<<< HEAD
+=======
+# Docusaurus cache and generated files
+.docusaurus
+
+>>>>>>> 35f7a1c6ef3e4b313048138fa64c85c6844511ec
 # Serverless directories
 .serverless/
 
